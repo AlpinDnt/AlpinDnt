@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Junior Web Developer based in Bali, Indonesia, with a strong focus on modern Frontend Development. I am passionate about transforming visual design concepts into interactive, responsive, and user-friendly web applications.<br><br>🌐 Check out my live portfolio at: [alpindnt.vercel.app](https://alpindnt.vercel.app/)<br>⚡ Currently diving deep into: React.js, Next.js, and Tailwind CSS.<br>🌱 Open for collaborations, freelance projects, or Junior Developer opportunities.
+I'm a Junior Web Developer based in Bali, Indonesia, with a strong focus on modern Frontend Development. I am passionate about transforming visual design concepts into interactive, responsive, and user-friendly web applications.<br><br>🌐 Check out my live portfolio at: [alpindnt-v2.vercel.app](https://alpindnt-v2.vercel.app/)<br>⚡ Currently diving deep into: React.js, Next.js, and Tailwind CSS.<br>🌱 Open for collaborations, freelance projects, or Junior Developer opportunities.
 
 
 ## 🌐 Socials:
